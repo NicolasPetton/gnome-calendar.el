@@ -6,7 +6,7 @@
 ;; Keywords: gnome calendar
 ;; Package: gnome-calendar
 
-;; Version: 0.1
+;; Version: 0.2
 
 ;; gnome-calendar is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -79,5 +79,6 @@ FUNCTION is called to fill the Gnome calendar with items."
 	(not (= 0 (nth 1 time)))
 	(not (= 0 (nth 2 time))))))
 
+(provide 'gnome-calendar)
 
 ;;; gnome-calendar.el ends here
