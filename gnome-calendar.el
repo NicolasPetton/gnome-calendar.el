@@ -78,3 +78,6 @@ FUNCTION is called to fill the Gnome calendar with items."
     (or (not (= 0 (nth 0 time)))
 	(not (= 0 (nth 1 time)))
 	(not (= 0 (nth 2 time))))))
+
+
+;;; gnome-calendar.el ends here
