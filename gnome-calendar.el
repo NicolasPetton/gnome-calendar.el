@@ -1,6 +1,6 @@
 ;;; gnome-calendar.el --- Integration with the GNOME Shell calendar
 
-;; Copyright (C) 2013 Nicolas Petton
+;; Copyright (C) 2013-2014 Nicolas Petton
 ;;
 ;; Author: Nicolas Petton <petton.nicolas@gmail.com>
 ;; Keywords: gnome calendar
