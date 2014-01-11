@@ -24,6 +24,8 @@
 
 ;;; Code:
 
+(require 'dbus)
+
 (defvar gsc-gnome-calendar-dbus-object nil)
 (defvar gsc-get-items-function nil "function to be called to retrieve items")
 
